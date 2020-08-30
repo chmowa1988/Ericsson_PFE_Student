@@ -1,0 +1,24 @@
+﻿HostName;Description;Severity;Status;Occurrence_Time
+rc51e00vm013;SNMP Not Reachable on {HOST.NAME};-;PROBLEM;July 1, 2020, 1:50 a.m.
+m11sdp20b;[p]Ebill: HTTP Connection time from Web Front to Web App 10.96.2.37 is high;-;PROBLEM;July 1, 2020, 1:50 a.m.
+dc1occ05;[p]Shop-POS/en: HTTP service is down on Web App 10.96.2.10;DISASTER;PROBLEM;July 1, 2020, 1:49 a.m.
+Pentaho_Server;Output CDR 1;-;PROBLEM;July 1, 2020, 1:49 a.m.
+rc51e00vm015b;[p]Ebill: HTTP Connection time from Web Front to Web App 10.96.2.29 is high;HIGH;PROBLEM;July 1, 2020, 1:48 a.m.
+Pentaho_Server;[p]Ebill: HTTP service is down on Web App 10.96.2.25;HIGH;PROBLEM;July 1, 2020, 1:48 a.m.
+dzalb01a2;[p]Customer Care:Self Check HTTP: HTTP Connection time from Web Front to Web App 10.96.2.19 is high;DISASTER;PROBLEM;July 1, 2020, 1:47 a.m.
+m9sdp16a;[p]POS: HTTP Connection time from Web Front to Web App 10.96.2.39 is high;-;PROBLEM;July 1, 2020, 1:47 a.m.
+rc51e00vm007h;[p]POS: HTTP Connection time from Web Front 1 to Web App 10.96.2.16 is high;HIGH;PROBLEM;July 1, 2020, 1:46 a.m.
+rc51e00vm007g;{HOST.NAME} is unavailable by ICMP;-;PROBLEM;July 1, 2020, 1:45 a.m.
+s1ipgw2;Message Queue Performance Monitor for MQ2;DISASTER;PROBLEM;July 1, 2020, 1:44 a.m.
+rc51e00vm016b;R01 Process Count on enh_core_db_1 and enh_core_db_2;HIGH;PROBLEM;July 1, 2020, 1:44 a.m.
+m9sdp16a;CPU utilization is greater than 70%;DISASTER;PROBLEM;July 1, 2020, 1:43 a.m.
+ALG-S1-L-STR001;Error renaming remote file on {HOST.HOST};-;PROBLEM;July 1, 2020, 1:43 a.m.
+rc51e00vm012a;[p]MyAccount: HTTP service is down on Web App 10.96.2.21;AVERAGE;PROBLEM;July 1, 2020, 1:42 a.m.
+m8air6;Generic error during ftp on {HOST.HOST};HIGH;PROBLEM;July 1, 2020, 1:41 a.m.
+djezzy-dc2-emm-cps1;Memory usage is greater than 70% on {HOST.NAME};-;PROBLEM;July 1, 2020, 1:41 a.m.
+rc51e00vm003m;[p]B2C Sales Chanel: Webshop: HTTP Connection time from Web Front to Web App 10.96.2.14 is high;HIGH;PROBLEM;July 1, 2020, 1:40 a.m.
+m5sdp25a;[p]B2C Sales Chanel: Webshop: HTTP Connection time from Web Front to Web App 10.96.2.30 is high;DISASTER;PROBLEM;July 1, 2020, 1:40 a.m.
+rc51e00h002a;Medallia dump : crm#contractscontract is not sent for this hour;-;PROBLEM;July 1, 2020, 1:40 a.m.
+TEST;network;1;0;06/30/2020 19:39:44
+KPI probleme;EDA stopped working;;INPROGRESS;06/30/2020 19:28:43
+sdp;probleme;High;New;06/30/2020 18:51:12
